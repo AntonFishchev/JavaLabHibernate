@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JavaLabHibernate" />
+        <module name="JavaLabHibernate (11-12)" />
       </profile>
     </annotationProcessing>
   </component>
